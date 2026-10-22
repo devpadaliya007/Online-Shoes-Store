@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "786696501172",
+    "firebase_url": "https://grpproject-551e2-default-rtdb.firebaseio.com",
+    "project_id": "grpproject-551e2",
+    "storage_bucket": "grpproject-551e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786696501172:android:1f20509195b1531914e4e1",
+        "android_client_info": {
+          "package_name": "com.example.grpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-oVGWeib3iYwhGjJtRIqsWTbbAe-pHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
